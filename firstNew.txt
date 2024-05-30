@@ -1,3 +1,0 @@
-trying to learn merge, fetch and pull
-this is an edit on the firstBranch
-this is an edit on CreateConflict2
